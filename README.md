@@ -1,4 +1,4 @@
-----
+搜索引擎相关
 ====
 
 #关于分词系统的资料收集
@@ -10,3 +10,7 @@
   5.结巴分词[https://github.com/fxsjy/jieba]
   6.中文分词及搜索博客汇总 [http://blog.csdn.net/lengyuhong/article/details/5990445]
  
+#搜索引擎资料
+  1.elasticsearch [http://www.elasticsearch.org/]
+  2.迅搜 [http://www.xunsearch.com/]
+  
