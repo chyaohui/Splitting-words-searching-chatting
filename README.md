@@ -21,6 +21,7 @@
   * ejabberd： erlang实现的jabber/xmpp协议的即时通讯服务器,不熟erlang，不考虑
   * 还有Tigase、Prosody等
   * Ratchet : WebSockets for PHP  [http://socketo.me/]
+  * Firechat ： 基于Firebase [http://firebase.github.io/firechat/]
   
   * 第三方云服务 
       > *环信即时通讯云 [http://www.easemob.com/index.php]
