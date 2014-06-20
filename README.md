@@ -15,7 +15,7 @@
   * 2.迅搜 [http://www.xunsearch.com/]
   
 #即时聊天资料
-  * Pomelo -- 分布式聊天服务器 [https://github.com/NetEase/pomelo/wiki/Pomelo-%E6%95%B0%E6%8D%AE%E5%8E%8B%E7%BC%A9%E5%8D%8F%E8%AE%AE]
+  * Pomelo -- 分布式聊天服务器 [https//github.com/NetEase/pomelo/wiki/pomelo/wiki/Pomelo-数据压缩协议]
   * XMPP、OpenFire： 最成熟的协议，服务端容易部署，xml格式传输，数据冗余大，不适合手机。
   * MQTT、Mosquitto： 使用发布/订阅消息模式，提供一对多的消息发布，支持php,java，c#等多语言，流量小，适合移动设备
   * ejabberd： erlang实现的jabber/xmpp协议的即时通讯服务器,不熟erlang，不考虑
