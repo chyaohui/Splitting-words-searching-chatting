@@ -20,8 +20,9 @@
   * MQTT、Mosquitto： 使用发布/订阅消息模式，提供一对多的消息发布，支持php,java，c#等多语言，流量小，适合移动设备
   * ejabberd： erlang实现的jabber/xmpp协议的即时通讯服务器,不熟erlang，不考虑
   * 还有Tigase、Prosody等
-  * 
+  * Ratchet : WebSockets for PHP  [http://socketo.me/]
+  
   * 第三方云服务 
-     **环信即时通讯云 [http://www.easemob.com/index.php]
-     **亲家通信云 [http://www.gotye.com.cn/index.jsp] 
+      > *环信即时通讯云 [http://www.easemob.com/index.php]
+      > *亲家通信云 [http://www.gotye.com.cn/index.jsp] 
   * 
