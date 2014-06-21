@@ -24,6 +24,7 @@
   * Firechat ： 基于Firebase [http://firebase.github.io/firechat/]
   
   * 第三方云服务 
+
       >*环信即时通讯云 [http://www.easemob.com/index.php]
       >*亲家通信云 [http://www.gotye.com.cn/index.jsp] 
       >*[quickblox.com] [http://www.quora.com/Backend-as-a-Service/What-is-the-best-BaaS-for-a-chat-based-app]
